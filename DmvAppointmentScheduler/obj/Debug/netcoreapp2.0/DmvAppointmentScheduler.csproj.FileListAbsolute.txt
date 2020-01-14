@@ -1,0 +1,13 @@
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\InputData\CustomerData.json
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\InputData\TellerData.json
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\DmvAppointmentScheduler.deps.json
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\DmvAppointmentScheduler.runtimeconfig.json
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\DmvAppointmentScheduler.runtimeconfig.dev.json
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\DmvAppointmentScheduler.dll
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\bin\Debug\netcoreapp2.0\DmvAppointmentScheduler.pdb
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.csprojAssemblyReference.cache
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.csproj.CoreCompileInputs.cache
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.AssemblyInfoInputs.cache
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.AssemblyInfo.cs
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.dll
+C:\src\dmvcodechallenge\DmvAppointmentScheduler\obj\Debug\netcoreapp2.0\DmvAppointmentScheduler.pdb
